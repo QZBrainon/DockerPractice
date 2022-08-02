@@ -1,1 +1,1 @@
-FROM imageTest
+FROM baseImage
